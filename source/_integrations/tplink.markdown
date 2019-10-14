@@ -6,6 +6,7 @@ ha_category:
   - Hub
   - Switch
   - Light
+  - Dimmer
   - Presence Detection
 ha_release: 0.89
 ha_iot_class: Local Polling
@@ -38,7 +39,10 @@ The following devices are known to work with this component.
 
 - HS200
 - HS210
-- HS220 (acts as a light)
+
+### Dimmers
+
+- HS220
 
 ### Bulbs
 
